@@ -53,7 +53,7 @@ pick e0ca8b9 The last commit <br/>
 ```
 <BR/>
 
-Самый первый commit указан в верху.
+Самый первый commit указан вверху.
 Изменим `pick` на `squash`
 
 ```
